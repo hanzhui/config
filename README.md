@@ -1,2 +1,2 @@
 # config
-config central
+config central 2
